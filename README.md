@@ -117,6 +117,7 @@ Open the frontend in your browser to interact with the dashboard.
 
 ## Screenshots 📸
 ![Dashboard Screenshot](https://via.placeholder.com/800x400.png?text=Dashboard) <!-- Replace with actual screenshot -->
+![Screenshot 2025-02-11 191410](https://github.com/user-attachments/assets/19458157-2c56-4ffa-ab6e-edb1d7d30765)
 
 ## Future Enhancements 🚀
 - Integration with additional threat intelligence sources
