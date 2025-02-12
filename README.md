@@ -116,7 +116,18 @@ Open the frontend in your browser to interact with the dashboard.
 ```
 
 ## Screenshots 📸
-![Dashboard Screenshot](https://via.placeholder.com/800x400.png?text=Dashboard) <!-- Replace with actual screenshot -->
+![Dashboard Screenshot](https:![Screenshot 2025-02-11 191410](https://github.com/user-attachments/assets/ea8513c5-5919-4f0e-9dc8-5c121a5cb048)
+ ![Screenshot 2025-02-11 191533](https://github.com/user-attachments/assets/59fd96d4-b95d-40dd-90a0-31941706d8e8)![Screenshot 2025-02-11 191651](https://github.com/user-attachments/assets/72067589-4c36-4253-b18b-48d659d09129)
+![Screenshot 2025-02-11 191719](https://github.com/user-attachments/assets/8a56e2d2-7be3-4932-8458-ed7a5b24f0ee)
+![Screenshot 2025-02-11 191808](https://github.com/user-attachments/assets/acd04c7f-e701-45d5-8941-98a35c706176)
+![Screenshot 2025-02-11 191842](https://github.com/user-attachments/assets/56301dd9-a1dc-4eb1-b2aa-752ca2cf6e41)
+![Screenshot 2025-02-11 191916](https://github.com/user-attachments/assets/77050b4b-2997-4cdb-b720-588856dc778e)
+![Screenshot 2025-02-11 191949](https://github.com/user-attachments/assets/389645ff-78b2-4df6-bde1-fd082167b70b)
+![Screenshot 2025-02-11 191949](https://github.com/user-attachments/assets/8ce065aa-57bf-40e3-95f2-904b33507f15)![Screenshot 2025-02-11 192026](https://github.com/user-attachments/assets/7bde5ac2-869d-4991-8084-75a357a88f94)
+
+![WhatsApp Image 2025-02-12 at 09 35 03_910e61c0](https://github.com/user-attachments/assets/f08c88f5-9ffb-41f7-af9c-7a1c0df0041d)
+
+
 
 ## Future Enhancements 🚀
 - Integration with additional threat intelligence sources
